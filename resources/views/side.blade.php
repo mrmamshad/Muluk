@@ -1,7 +1,7 @@
 
     <!-- Sidebar -->
 
-       <aside class="bg-sideColor border border-gray-600 shadow-xl sm:col-span-3  h-5/5 text-gray-200 justify-between py-6 sm:h-screen w-55">
+       <aside class="bg-sideColor  border border-gray-600 shadow-xl sm:col-span-3  h-full text-gray-200 justify-between py-6 sm:h-screen w-55">
 
         <div class="flex items-center  ">
             <h2 class="pl-9 font-bold">Your Tasks</h2>
@@ -11,7 +11,7 @@
 
        <div class="flex justify-center mb-6 mt-1 " >
          <input type="text"
-       class="appearance-none    w-4/5 bg-white border border-gray-300 rounded-lg py-2 px-3 placeholder-gray-400 text-gray-700 leading-tight focus:outline-none focus:border-blue-300 focus:shadow-outline-blue"
+       class="appearance-none    w-4/5 bg-sideColor border border-gray-300 rounded-lg py-2 px-3 placeholder-gray-400 text-gray-700 leading-tight focus:outline-none focus:border-blue-600 focus:shadow-outline-blue"
 
        placeholder="Find a repository…"
        aria-label="Find a repository…"

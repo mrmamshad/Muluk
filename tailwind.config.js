@@ -17,6 +17,7 @@ export default {
                 default: "#0d1117;",
                 fontColor: "#848d97",
                 sideColor: "#161b22",
+                sectionColor: "#2429e",
             },
         },
     },

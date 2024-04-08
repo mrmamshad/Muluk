@@ -1,13 +1,13 @@
-<div class=" space-y-4">
+<div class=" space-y-4 ">
     <div class="grid gap-2">
-    <div class="bg-white p-4 rounded-lg shadow-md">
+    <div class="bg-sectionColor  my-4 border p-4 border-gray-700 rounded-lg shadow-lg">
         <h2 class="text-lg font-semibold mb-2">Latest Changes</h2>
         <ul class="divide-y divide-gray-200">
             <li class="py-2">
                 <div class="flex justify-between">
                     <div>
-                        <p class="text-sm text-gray-600">Commit message goes here</p>
-                        <p class="text-xs text-gray-400">Author Name - Date</p>
+                        <p class="text-sm text-white">Chapter 10 done</p>
+                        <p class="text-xs text-gray-200">Author Name - Mamshad</p>
                     </div>
                     <div>
                         <a href="#" class="text-blue-500 hover:underline">View Commit</a>
@@ -18,7 +18,7 @@
         </ul>
     </div>
 </div>
-<div class="mb-5 bg-gray-100 border border-gray-300 p-3 rounded-md" role="navigation" aria-label="Explore repositories">
+<div class="mb-5 bg-sectionColor border border-gray-600 p-3 rounded-md" role="navigation" aria-label="Explore repositories">
   <h2 class="text-lg font-semibold">
     Explore repositories
   </h2>
