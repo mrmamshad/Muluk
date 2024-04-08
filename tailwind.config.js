@@ -7,17 +7,18 @@ export default {
     ],
     theme: {
         screens: {
-            sm: '480px',
-            md: '768px',
-            lg: '976px',
-            xl: '1440px',
+            sm: "480px",
+            md: "768px",
+            lg: "976px",
+            xl: "1440px",
         },
         extend: {
-            colors:{
-                nav: '#0d1117;',
-            }
+            colors: {
+                default: "#0d1117;",
+                fontColor: "#848d97",
+                sideColor: "#161b22",
+            },
         },
     },
     plugins: [require("daisyui")],
-}
-
+};

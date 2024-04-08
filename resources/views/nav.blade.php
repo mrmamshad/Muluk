@@ -1,5 +1,5 @@
 <nav class="relative border border-gray-700 text-white  ">
-    <div class="navbar bg-nav ">
+    <div class="navbar bg-default ">
         <div class="navbar-start">
             <div class="dropdown">
                 <div tabindex="0" role="button" class="btn btn-ghost btn-circle">
